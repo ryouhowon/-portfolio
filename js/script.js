@@ -2,7 +2,7 @@ const photoArr = [  ["Aisle.png", "[Aisle]", "HTML5 / CSS / (publish)", "publish
 ["B&O.png", "[B&O]", "HTML5 / CSS / (publish)", "publish", "https://ryouhowon.github.io/B-O/"],
 ["CASHMERE.png", "[CASHMERE]", "HTML5 / CSS / (publish)", "publish", "https://ryouhowon.github.io/cashemere/"],
 ["Origin.png", "[Origin]", "HTML5 / CSS / (publish)", "publish", "https://ryouhowon.github.io/Origin/"],
-["Filmmakers.png", "[Filmmakers]", "HTML5 / CSS / Jquery / (publish)", "publish", "https://ryouhowon.github.io/Filmmakers/"],
+["Filmmakers.png", "[FilmMakers]", "HTML5 / CSS / Jquery / (publish)", "publish", "https://ryouhowon.github.io/Filmmakers/"],
 ["Kuliner.png", "[kuliner]", "HTML5 / CSS / (publish)", "publish", "https://ryouhowon.github.io/Kuliner/"],
 ["website.png", "[website]", "HTML5 / CSS / (publish)", "publish", "https://ryouhowon.github.io/website/"],
 ["Oclass.png", "[oclass]", "HTML5 / CSS / Jquery / Javacaript / PHP (publish)", "publish", "https://ryouhowon.github.io/oclass/"],
