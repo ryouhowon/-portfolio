@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+*{box-sizing: border-box; font-family: 'Poppins', sans-serif;}
+html, body{margin: 0; padding: 0;}
+h1, h2, h3, h4, h5, h6, p{margin: 0;}
+ul, ol{margin: 0; padding: 0; list-style: none;}
+a, a:hover{text-decoration: none;}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+
+.Skill h3.tit{
+    font-size: 49px;
+    color: #fff;
+    background-color: #5975f0;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    font-weight: 700;
+}
+
+.Skill .fream{
+    width: 1200px;
+    margin: 120px auto;
+    padding-left: 200px;
+}
+
+.Skill .fream img{
+    width: 180px;
+    height: 140px;
+    margin: 0 20px;
+}
+.Skill .fream #Skillup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 80px;
+}
+
+.Skill .fream #SkillDown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
